@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jonam17
-- 👀 I’m interested in finance, robotics, fitness, and healthcare
+- 👀 I’m interested in data science, finance, robotics, fitness, and healthcare
 - 🌱 I’m currently learning python and HTML
 - 📫 How to reach me: Stack Overflow: @Jona17
 
