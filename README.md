@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jonam17
 - 👀 I’m interested in data science, finance, robotics, fitness, and healthcare
-- 🌱 I’m currently learning python and HTML
+- 🌱 I’m currently learning python
 - 📫 How to reach me: Stack Overflow: @Jona17
 
 
