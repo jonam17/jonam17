@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated typing header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jonathan+Morales+%F0%9F%91%8B;Data+Science+%7C+Finance+%7C+Robotics;Always+learning%2C+always+building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jonathan+Morales+%F0%9F%91%8B;Data+Science+%7C+Finance+%7C+Robotics;Always+learning%2C+always+building" alt="Typing SVG" />
 
 <br/>
 
@@ -71,12 +71,11 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jonam17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonam17&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=jonam17&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jonam17&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jonam17&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%"/>
 
 </div>
 
