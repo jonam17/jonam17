@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150">
+<defs><linearGradient id="l"><stop stop-color="#58a6ff"/><stop offset=".5" stop-color="#39d353"/><stop offset="1" stop-color="#2dd4bf"/></linearGradient><filter id="g"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<style>.m{font-family:ui-monospace,SFMono-Regular,Menlo,monospace}.d{stroke-dasharray:700;animation:x 4s linear infinite}@keyframes x{to{stroke-dashoffset:-1400}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<rect width="1200" height="150" rx="18" fill="#0d1117" stroke="#1f6feb" stroke-opacity=".45"/>
+<path class="d" d="M0 104h220l18-18 20 36 28-72 28 54h130l16-20 18 20h175l20-28 22 28h525" fill="none" stroke="url(#l)" stroke-width="3" filter="url(#g)"/>
+<text x="600" y="48" text-anchor="middle" class="m" font-size="22" fill="#2dd4bf">SYSTEM ONLINE</text>
+<text x="600" y="76" text-anchor="middle" class="m" font-size="14" fill="#8b949e">MEDICINE × SOFTWARE × DATA × ROBOTICS</text>
+</svg>

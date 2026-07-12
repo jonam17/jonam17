@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190">
+<defs><linearGradient id="bg"><stop stop-color="#07111f"/><stop offset="1" stop-color="#0d1117"/></linearGradient><filter id="g"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<style>.m{font-family:ui-monospace,SFMono-Regular,Menlo,monospace}.p{animation:p 2s ease-in-out infinite}@keyframes p{50%{opacity:.35}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<rect width="1200" height="190" rx="18" fill="url(#bg)" stroke="#1f6feb" stroke-opacity=".45"/>
+<text x="36" y="42" class="m" font-size="18" fill="#58a6ff">SYSTEM STATUS</text>
+<g class="m">
+<g transform="translate(55 82)"><circle cx="22" cy="22" r="21" fill="none" stroke="#39d353"/><circle cx="22" cy="22" r="5" fill="#39d353" class="p" filter="url(#g)"/><text x="58" y="14" font-size="15" fill="#39d353">BUILDING</text><text x="58" y="38" font-size="14" fill="#c9d1d9">SIMS + workflow tools</text></g>
+<g transform="translate(345 82)"><circle cx="22" cy="22" r="21" fill="none" stroke="#39d353"/><path d="M13 22h18M22 13v18" stroke="#39d353" stroke-width="3"/><text x="58" y="14" font-size="15" fill="#39d353">DEVELOPING</text><text x="58" y="38" font-size="14" fill="#c9d1d9">Inventory systems</text></g>
+<g transform="translate(650 82)"><circle cx="22" cy="22" r="21" fill="none" stroke="#58a6ff"/><path d="M12 26c8-20 22-20 30 0" fill="none" stroke="#58a6ff" stroke-width="3"/><text x="58" y="14" font-size="15" fill="#58a6ff">EXPLORING</text><text x="58" y="38" font-size="14" fill="#c9d1d9">AI + robotics</text></g>
+<g transform="translate(930 82)"><circle cx="22" cy="22" r="21" fill="none" stroke="#2dd4bf"/><circle cx="22" cy="22" r="10" fill="none" stroke="#2dd4bf"/><circle cx="22" cy="22" r="3" fill="#2dd4bf" class="p"/><text x="58" y="14" font-size="15" fill="#2dd4bf">MISSION</text><text x="58" y="38" font-size="14" fill="#c9d1d9">Technology × medicine</text></g>
+</g>
+</svg>

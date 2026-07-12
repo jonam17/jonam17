@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="270" viewBox="0 0 580 270">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1728"/><stop offset="1" stop-color="#0d1117"/></linearGradient><filter id="g"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<style>.m{font-family:ui-monospace,SFMono-Regular,Menlo,monospace}.s{font-family:Inter,Segoe UI,Arial,sans-serif}.p{animation:p 2s ease-in-out infinite}@keyframes p{50%{opacity:.35}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<rect x="1" y="1" width="578" height="268" rx="18" fill="url(#bg)" stroke="#1f6feb" stroke-opacity=".6"/>
+<circle cx="536" cy="34" r="6" fill="#39d353" class="p" filter="url(#g)"/>
+<text x="30" y="48" class="m" font-size="19" fill="#58a6ff">SURGICAL SIMULATION TECH</text>
+<text x="30" y="78" class="s" font-size="15" fill="#8b949e">Hardware, software & workflow integration</text>
+<g transform="translate(32 108)" fill="none" stroke="#39d353" stroke-width="3"><path d="M12 54l20-20 13 13 20-30M50 17h15v15"/><circle cx="12" cy="54" r="5"/></g>
+<text x="112" y="128" class="m" font-size="13" fill="#39d353">STATUS  //  EXPLORING</text>
+<text x="112" y="157" class="m" font-size="13" fill="#c9d1d9">Raspberry Pi  •  Python  •  Robotics</text>
+<path d="M30 200H550" stroke="#30363d"/>
+<text x="30" y="232" class="m" font-size="13" fill="#8b949e">REAL WORKFLOW  →  PURPOSE-BUILT SOFTWARE  →  LESS FRICTION</text>
+</svg>

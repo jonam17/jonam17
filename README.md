@@ -1,93 +1,115 @@
 <div align="center">
-
-<!-- Animated typing header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jonathan+Morales+%F0%9F%91%8B;Data+Science+%7C+Finance+%7C+Robotics;Always+learning%2C+always+building" alt="Typing SVG" />
+  <img src="./assets/medtech-header.svg" width="100%" alt="Jonathan Morales — MedTech, Surgical Simulation, Software Engineering"/>
+  <br/><br/>
+  <a href="https://github.com/jonam17"><img src="https://img.shields.io/badge/GITHUB-jonam17-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="GitHub"/></a>
+  <a href="https://stackoverflow.com/users/jona17"><img src="https://img.shields.io/badge/STACK_OVERFLOW-Jona17-0D1117?style=for-the-badge&logo=stackoverflow&logoColor=F58025" alt="Stack Overflow"/></a>
+  <img src="https://komarev.com/ghpvc/?username=jonam17&label=PROFILE+VIEWS&color=238636&style=for-the-badge" alt="Profile Views"/>
+</div>
 
 <br/>
 
-<!-- Social / contact badges -->
-<a href="https://stackoverflow.com/users/jona17">
-  <img src="https://img.shields.io/badge/Stack_Overflow-@Jona17-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/>
-</a>
-<a href="https://github.com/jonam17">
-  <img src="https://img.shields.io/badge/GitHub-jonam17-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<img src="https://img.shields.io/badge/San_Diego,_CA-☀️-0078D4?style=for-the-badge" alt="Location"/>
+<img src="./assets/system-status.svg" width="100%" alt="System Status"/>
 
-<br/><br/>
+## `01 // OPERATOR_PROFILE`
 
-<img src="https://komarev.com/ghpvc/?username=jonam17&style=for-the-badge&color=58A6FF" alt="Profile views"/>
+```yaml
+name: Jonathan Morales
+location: San Diego, California
 
-</div>
+domain:
+  primary: MedTech & Surgical Simulation
+  intersection:
+    - Medicine
+    - Software Engineering
+    - Research
+    - Automation
 
----
+current_mission:
+  - Build software for surgical simulation environments
+  - Transform manual workflows into intelligent systems
+  - Develop practical tools for healthcare and research
+  - Explore robotics, data, and medicine
 
-## 🚀 About Me
-
-```python
-class Jonathan:
-    def __init__(self):
-        self.location = "San Diego, CA 🌴"
-        self.interests = ["data science", "finance", "robotics",
-                          "fitness", "healthcare"]
-        self.currently_learning = "Python 🐍"
-        self.goal = "Turn data into decisions"
-
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something cool.")
-
-me = Jonathan()
-me.say_hi()
+philosophy: "Build technology that solves real problems."
 ```
 
+I work at the intersection of **medicine, technology, and software**. My background in biomedical research and surgical simulation gives me a perspective that extends beyond writing code: I build around **real operational problems, real users, and real workflows**.
+
 ---
 
-## 🛠️ Tech Stack
+## `02 // ACTIVE_SYSTEMS`
 
 <div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
+  <img src="./assets/project-sims.svg" width="49%" alt="SIMS"/>
+  <img src="./assets/project-inventory.svg" width="49%" alt="CFS Inventory Reorder"/>
+  <img src="./assets/project-dose.svg" width="49%" alt="Porcine Anesthesia Calculator"/>
+  <img src="./assets/project-lab.svg" width="49%" alt="Surgical Simulation Technology"/>
 </div>
 
 ---
 
-## 🎯 Current Focus
+## `03 // TECHNOLOGY_MATRIX`
 
-| 🌱 Learning | 🔭 Exploring | 💡 Interested In |
-|:---:|:---:|:---:|
-| Python fundamentals | Data science projects | Fintech & quant analysis |
-| Data structures | Machine learning basics | Health & fitness tech |
-| Clean code habits | Robotics + automation | Healthcare analytics |
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,nextjs,react,fastapi,postgres,docker,vercel,git,github,raspberrypi,vscode&theme=dark&perline=13" alt="Technology Stack"/>
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## `04 // ENGINEERING_PRINCIPLES`
+
+| `01 // SOLVE REAL PROBLEMS` | `02 // DESIGN FOR HUMANS` | `03 // BUILD FOR RELIABILITY` | `04 // KEEP LEARNING` |
+|---|---|---|---|
+| Technology should eliminate friction. | Build systems people want to use. | Prefer maintainable systems over unnecessary complexity. | Every project expands the system. |
+
+---
+
+## `05 // TELEMETRY`
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jonam17&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonam17&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages"/>
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com?user=jonam17&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=3FB950&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+  <br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jonam17&bg_color=0D1117&color=58A6FF&line=3FB950&point=FFFFFF&area=true&hide_border=true" width="98%" alt="Contribution Activity Graph"/>
+</div>
+
+---
+
+## `06 // CONTRIBUTION_STREAM`
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jonam17/jonam17/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jonam17/jonam17/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/jonam17/jonam17/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+## `07 // CURRENT_MISSION`
+
+> **The most interesting problems exist between disciplines.**
+
+I’m interested in building technology where **software leaves the screen and affects the real world** — especially in healthcare, surgical education, research, automation, and robotics.
+
+---
+
+## `08 // ESTABLISH_CONNECTION`
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=jonam17&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+`MEDTECH` • `SURGICAL SIMULATION` • `SOFTWARE` • `ROBOTICS` • `DATA`
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jonam17&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%"/>
+<a href="https://github.com/jonam17"><img src="https://img.shields.io/badge/GITHUB-ESTABLISH_CONNECTION-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="GitHub"/></a>
+<a href="https://stackoverflow.com/users/jona17"><img src="https://img.shields.io/badge/STACK_OVERFLOW-OPEN_CHANNEL-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/></a>
 
-</div>
+<br/><br/>
 
----
-
-## 📫 Let's Connect
-
-I'm always up for talking data, markets, robots, or lifting heavy things.
-Find me on **Stack Overflow** as [@Jona17](https://stackoverflow.com/users/jona17) 🚀
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="footer wave"/>
+<img src="./assets/medtech-footer.svg" width="100%" alt="System Online"/>
 
 </div>
