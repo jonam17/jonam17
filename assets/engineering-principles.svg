@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330">
+<style>.m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}.s{font-family:Inter,Segoe UI,Arial,sans-serif}</style>
+<rect width="1200" height="330" rx="20" fill="#0d1117" stroke="#1f6feb" stroke-opacity=".45"/>
+<text x="38" y="48" class="m" font-size="18" fill="#58a6ff">ENGINEERING PRINCIPLES // OPERATING LOGIC</text>
+<g transform="translate(30 82)">
+ <g><rect width="270" height="205" rx="15" fill="#0b1728" stroke="#30363d"/><text x="22" y="42" class="m" font-size="28" fill="#39d353">01</text><text x="22" y="78" class="m" font-size="14" fill="#58a6ff">SOLVE REAL PROBLEMS</text><text x="22" y="118" class="s" font-size="14" fill="#c9d1d9"><tspan x="22" dy="0">Technology should remove</tspan><tspan x="22" dy="23">friction, not create it.</tspan></text></g>
+ <g transform="translate(290)"><rect width="270" height="205" rx="15" fill="#0b1728" stroke="#30363d"/><text x="22" y="42" class="m" font-size="28" fill="#39d353">02</text><text x="22" y="78" class="m" font-size="14" fill="#58a6ff">DESIGN FOR HUMANS</text><text x="22" y="118" class="s" font-size="14" fill="#c9d1d9"><tspan x="22">Build systems people</tspan><tspan x="22" dy="23">actually want to use.</tspan></text></g>
+ <g transform="translate(580)"><rect width="270" height="205" rx="15" fill="#0b1728" stroke="#30363d"/><text x="22" y="42" class="m" font-size="28" fill="#39d353">03</text><text x="22" y="78" class="m" font-size="14" fill="#58a6ff">BUILD FOR RELIABILITY</text><text x="22" y="118" class="s" font-size="14" fill="#c9d1d9"><tspan x="22">Prefer maintainable systems</tspan><tspan x="22" dy="23">over needless complexity.</tspan></text></g>
+ <g transform="translate(870)"><rect width="270" height="205" rx="15" fill="#0b1728" stroke="#30363d"/><text x="22" y="42" class="m" font-size="28" fill="#39d353">04</text><text x="22" y="78" class="m" font-size="14" fill="#58a6ff">KEEP LEARNING</text><text x="22" y="118" class="s" font-size="14" fill="#c9d1d9"><tspan x="22">Every project expands</tspan><tspan x="22" dy="23">the system.</tspan></text></g>
+</g>
+</svg>

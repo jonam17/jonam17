@@ -39,40 +39,31 @@ I work at the intersection of **medicine, technology, and software**. My backgro
 
 ## `02 // ACTIVE_SYSTEMS`
 
-<div align="center">
-  <img src="./assets/project-sims.svg" width="49%" alt="SIMS"/>
-  <img src="./assets/project-inventory.svg" width="49%" alt="CFS Inventory Reorder"/>
-  <img src="./assets/project-dose.svg" width="49%" alt="Porcine Anesthesia Calculator"/>
-  <img src="./assets/project-lab.svg" width="49%" alt="Surgical Simulation Technology"/>
-</div>
+<img src="./assets/active-systems.svg" width="100%" alt="Active Systems and Projects"/>
 
 ---
 
 ## `03 // TECHNOLOGY_MATRIX`
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,nextjs,react,fastapi,postgres,docker,vercel,git,github,raspberrypi,vscode&theme=dark&perline=13" alt="Technology Stack"/>
-</div>
+<img src="./assets/technology-matrix.svg" width="100%" alt="Technology Matrix"/>
 
 ---
 
 ## `04 // ENGINEERING_PRINCIPLES`
 
-| `01 // SOLVE REAL PROBLEMS` | `02 // DESIGN FOR HUMANS` | `03 // BUILD FOR RELIABILITY` | `04 // KEEP LEARNING` |
-|---|---|---|---|
-| Technology should eliminate friction. | Build systems people want to use. | Prefer maintainable systems over unnecessary complexity. | Every project expands the system. |
+<img src="./assets/engineering-principles.svg" width="100%" alt="Engineering Principles"/>
 
 ---
 
 ## `05 // TELEMETRY`
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jonam17&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonam17&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jonam17&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=C9D1D9&rank_icon=github" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonam17&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="49%" alt="Top Languages"/>
   <br/><br/>
-  <img src="https://streak-stats.demolab.com?user=jonam17&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=3FB950&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=jonam17&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=3FB950&currStreakLabel=58A6FF" width="70%" alt="GitHub Streak"/>
   <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jonam17&bg_color=0D1117&color=58A6FF&line=3FB950&point=FFFFFF&area=true&hide_border=true" width="98%" alt="Contribution Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jonam17&bg_color=0D1117&color=58A6FF&line=3FB950&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Activity Graph"/>
 </div>
 
 ---
@@ -83,7 +74,7 @@ I work at the intersection of **medicine, technology, and software**. My backgro
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jonam17/jonam17/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jonam17/jonam17/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/jonam17/jonam17/output/github-contribution-grid-snake.svg">
+    <img width="100%" alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/jonam17/jonam17/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 

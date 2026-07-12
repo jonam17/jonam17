@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390">
+<defs><linearGradient id="bg"><stop stop-color="#081421"/><stop offset="1" stop-color="#0d1117"/></linearGradient></defs>
+<style>.m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}.s{font-family:Inter,Segoe UI,Arial,sans-serif}</style>
+<rect width="1200" height="390" rx="20" fill="url(#bg)" stroke="#1f6feb" stroke-opacity=".5"/>
+<text x="38" y="48" class="m" font-size="18" fill="#58a6ff">TECHNOLOGY MATRIX // CURRENT TOOLCHAIN</text>
+<g transform="translate(38 88)">
+ <text class="m" font-size="14" fill="#39d353">LANGUAGES</text>
+ <g transform="translate(0 22)" class="m" font-size="15" fill="#c9d1d9"><rect width="520" height="54" rx="10" fill="#161b22" stroke="#30363d"/><text x="20" y="34">PYTHON  •  TYPESCRIPT  •  JAVASCRIPT  •  SQL</text></g>
+</g>
+<g transform="translate(642 88)">
+ <text class="m" font-size="14" fill="#39d353">APPLICATION LAYER</text>
+ <g transform="translate(0 22)" class="m" font-size="15" fill="#c9d1d9"><rect width="520" height="54" rx="10" fill="#161b22" stroke="#30363d"/><text x="20" y="34">NEXT.JS  •  REACT  •  FASTAPI  •  NODE.JS</text></g>
+</g>
+<g transform="translate(38 195)">
+ <text class="m" font-size="14" fill="#58a6ff">DATA + INFRASTRUCTURE</text>
+ <g transform="translate(0 22)" class="m" font-size="15" fill="#c9d1d9"><rect width="520" height="54" rx="10" fill="#161b22" stroke="#30363d"/><text x="20" y="34">POSTGRESQL  •  GIT  •  GITHUB  •  VERCEL</text></g>
+</g>
+<g transform="translate(642 195)">
+ <text class="m" font-size="14" fill="#2dd4bf">HARDWARE + SYSTEMS</text>
+ <g transform="translate(0 22)" class="m" font-size="15" fill="#c9d1d9"><rect width="520" height="54" rx="10" fill="#161b22" stroke="#30363d"/><text x="20" y="34">RASPBERRY PI  •  LINUX  •  VS CODE  •  APIs</text></g>
+</g>
+<path d="M38 326h1124" stroke="#30363d"/>
+<text x="600" y="358" text-anchor="middle" class="m" font-size="14" fill="#8b949e">BUILDING FULL-STACK SYSTEMS AROUND REAL OPERATIONAL WORKFLOWS</text>
+</svg>
