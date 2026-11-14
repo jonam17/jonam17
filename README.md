@@ -1,106 +1,55 @@
 <div align="center">
   <img src="./assets/medtech-header.svg" width="100%" alt="Jonathan Morales — MedTech, Surgical Simulation, Software Engineering"/>
   <br/><br/>
-  <a href="https://github.com/jonam17"><img src="https://img.shields.io/badge/GITHUB-jonam17-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="GitHub"/></a>
-  <a href="https://stackoverflow.com/users/jona17"><img src="https://img.shields.io/badge/STACK_OVERFLOW-Jona17-0D1117?style=for-the-badge&logo=stackoverflow&logoColor=F58025" alt="Stack Overflow"/></a>
-  <img src="https://komarev.com/ghpvc/?username=jonam17&label=PROFILE+VIEWS&color=238636&style=for-the-badge" alt="Profile Views"/>
+  <a href="https://stackoverflow.com/users/jona17"><img src="https://img.shields.io/badge/Stack_Overflow-Jona17-0D1117?style=for-the-badge&logo=stackoverflow&logoColor=F58025" alt="Stack Overflow"/></a>
+  <img src="https://img.shields.io/badge/San_Diego-CA-0D1117?style=for-the-badge&logo=googlemaps&logoColor=58A6FF" alt="San Diego, CA"/>
 </div>
 
-<br/>
+## Hi, I'm Jonathan 👋
 
-<img src="./assets/system-status.svg" width="100%" alt="System Status"/>
+I build software for **surgical simulation and biomedical research**: inventory systems, dose-support tools, and workflow platforms for people who work in labs and operating-room environments.
 
-## `01 // OPERATOR_PROFILE`
+My background in biomedical research means I start from the **real workflow, the real user, and the real constraint** (a tablet in a lab, spotty connectivity, a supply that can't run out) and work back to the code.
 
-```yaml
-name: Jonathan Morales
-location: San Diego, California
+## 🧪 What I'm building
 
-domain:
-  primary: MedTech & Surgical Simulation
-  intersection:
-    - Medicine
-    - Software Engineering
-    - Research
-    - Automation
+| Project | What it does | Stack | Status |
+|---|---|---|---|
+| **SIMS** — Suture Inventory Management System | Gives surgical simulation teams live visibility into suture stock | Next.js · React · FastAPI · PostgreSQL | 🟢 Active development |
+| **CFS Inventory Reorder** | Supply tracking and a single reorder workflow, built for iPad use | Next.js · FastAPI · PostgreSQL | 🟢 Active |
+| **Porcine Anesthesia Calculator** | Offline-first medication and dose support for research models | Offline-first · Healthcare · Research | 🟡 In development |
+| **Surgical Simulation Tech** | Connecting physical hardware, data, and AI in simulation workflows | Raspberry Pi · Python · Robotics | 🔵 Exploring |
 
-current_mission:
-  - Build software for surgical simulation environments
-  - Transform manual workflows into intelligent systems
-  - Develop practical tools for healthcare and research
-  - Explore robotics, data, and medicine
+## 🛠️ Toolkit
 
-philosophy: "Build technology that solves real problems."
-```
+| | |
+|---|---|
+| **Languages** | `Python` `TypeScript` `JavaScript` `SQL` |
+| **Application** | `Next.js` `React` `FastAPI` `Node.js` |
+| **Data & infra** | `PostgreSQL` `Git` `GitHub Actions` `Vercel` |
+| **Hardware & systems** | `Raspberry Pi` `Linux` `REST APIs` |
 
-I work at the intersection of **medicine, technology, and software**. My background in biomedical research and surgical simulation gives me a perspective that extends beyond writing code: I build around **real operational problems, real users, and real workflows**.
+## 🧭 How I work
 
----
+- **Solve real problems.** Talk to the people doing the work before writing code.
+- **Design for humans.** If it needs a manual, it isn't finished.
+- **Build for reliability.** Clinical and research settings don't tolerate flaky tools.
+- **Keep learning.** Currently exploring robotics, AI, and data for simulation.
 
-## `02 // ACTIVE_SYSTEMS`
-
-<img src="./assets/active-systems.svg" width="100%" alt="Active Systems and Projects"/>
-
----
-
-## `03 // TECHNOLOGY_MATRIX`
-
-<img src="./assets/technology-matrix.svg" width="100%" alt="Technology Matrix"/>
-
----
-
-## `04 // ENGINEERING_PRINCIPLES`
-
-<img src="./assets/engineering-principles.svg" width="100%" alt="Engineering Principles"/>
-
----
-
-## `05 // TELEMETRY`
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jonam17&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=C9D1D9&rank_icon=github" width="49%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonam17&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="49%" alt="Top Languages"/>
-  <br/><br/>
-  <img src="https://streak-stats.demolab.com?user=jonam17&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=3FB950&currStreakLabel=58A6FF" width="70%" alt="GitHub Streak"/>
-  <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jonam17&bg_color=0D1117&color=58A6FF&line=3FB950&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Activity Graph"/>
-</div>
-
----
-
-## `06 // CONTRIBUTION_STREAM`
+## 📈 Activity
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jonam17/jonam17/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jonam17/jonam17/output/github-contribution-grid-snake.svg">
-    <img width="100%" alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/jonam17/jonam17/output/github-contribution-grid-snake.svg">
+    <img width="100%" alt="Contribution graph animated as a snake eating commits" src="https://raw.githubusercontent.com/jonam17/jonam17/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
----
+## 🤝 Let's connect
 
-## `07 // CURRENT_MISSION`
-
-> **The most interesting problems exist between disciplines.**
-
-I’m interested in building technology where **software leaves the screen and affects the real world** — especially in healthcare, surgical education, research, automation, and robotics.
-
----
-
-## `08 // ESTABLISH_CONNECTION`
+I'm interested in work where **software leaves the screen and affects the real world**: healthcare, surgical education, research automation, and robotics. If that's your problem space, open an issue on any of my repos or find me on [Stack Overflow](https://stackoverflow.com/users/jona17).
 
 <div align="center">
-
-`MEDTECH` • `SURGICAL SIMULATION` • `SOFTWARE` • `ROBOTICS` • `DATA`
-
-<br/><br/>
-
-<a href="https://github.com/jonam17"><img src="https://img.shields.io/badge/GITHUB-ESTABLISH_CONNECTION-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="GitHub"/></a>
-<a href="https://stackoverflow.com/users/jona17"><img src="https://img.shields.io/badge/STACK_OVERFLOW-OPEN_CHANNEL-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/></a>
-
-<br/><br/>
-
-<img src="./assets/medtech-footer.svg" width="100%" alt="System Online"/>
-
+  <img src="./assets/medtech-footer.svg" width="100%" alt="Medicine × Software × Data × Robotics"/>
 </div>
